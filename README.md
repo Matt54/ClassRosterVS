@@ -3,6 +3,6 @@
   Mouse down accelerates the ball upwards, otherwise the ball drops. Out of bounds resets the game.
   <br><br>
   <kbd>
-    <img src="Images/DebugOutput.png" width="1000">
+    <img src="Images/DebugOutput.png" width="1500">
   </kbd>
 </p>
