@@ -1,4 +1,4 @@
-<h1> ClassRosterVS </h1><br>
+<h1> ClassRosterVS </h1>
 <p align="center">
   <h2>Notable Concepts Involved:</h2>
   <ul>
