@@ -20,7 +20,13 @@
     <li>Deletes the roster from memory.</li>
   </ul> 
   <br><br>
+  
+</p>
+
+<p align="center">
+  <h2>Output:</h2>
   <kbd>
     <img src="Images/DebugOutput.png" width="1500">
   </kbd>
+  Click Image for high resolution.
 </p>
