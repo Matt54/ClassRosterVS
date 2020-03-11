@@ -19,8 +19,13 @@
     <li>Attempts to remove the same student again (prints error message).</li>
     <li>Deletes the roster from memory.</li>
   </ul> 
-  <br><br>
-  
+</p>
+
+<p align="center">
+  <h2>Input:</h2>
+  <kbd>
+    <img src="Images/StudentInputData.png" width="800">
+  </kbd>
 </p>
 
 <p align="center">
