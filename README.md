@@ -24,7 +24,7 @@
 <p align="center">
   <h2>Input:</h2>
   <kbd>
-    <img src="Images/StudentInputData.png" width="800">
+    <img src="Images/StudentInputData.JPG" width="800">
   </kbd>
 </p>
 
